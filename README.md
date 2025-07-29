@@ -2,6 +2,12 @@
 
 A modern, responsive movie search application built with React, Vite, and Tailwind CSS. Search for movies using The Movie Database (TMDB) API and track your favorite searches with Appwrite backend integration.
 
+## 🌐 Live Demo
+
+**Visit the deployed application:** [https://thanhvinhtong.github.io/movie-online](https://thanhvinhtong.github.io/movie-online)
+
+Experience the full functionality of the movie search app with real-time search, trending movies, and responsive design.
+
 ## ✨ Features
 
 - **🔍 Real-time Movie Search**: Search for movies with debounced input for optimal performance
